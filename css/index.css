@@ -1,0 +1,40 @@
+.html {
+    background-color: #E3E3E3;
+}
+
+.font {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.nav {
+    background-color: #E3E3E3;
+}
+
+.jumbotronadd {
+}
+
+.background {
+    background-color: #E3E3E3;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.research {
+    display: flex;
+    
+}
+
+.pad {
+    margin-top: 60x;
+    margin-bottom: 60px; 
+}
+
+.fontcolor {
+    color: white
+}
+
+.size {
+    
+}
